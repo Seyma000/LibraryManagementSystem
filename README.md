@@ -17,7 +17,7 @@ Projede, aşağıdaki bileşenler bulunmaktadır:
 ## Kullanılan Teknolojiler
 
 - Java 21
-- Jakarta Persistence API (JPA)
+- Maven
 - Hibernate (JPA implementation)
 - PostgreSQL (database)
 
