@@ -14,12 +14,12 @@ Projede, aşağıdaki bileşenler bulunmaktadır:
 - **BookBorrowing.java**: Kitap ödünç alma işlemlerini temsil eden sınıf.
 - **persistence.xml**: JPA yapılandırma dosyası.
 
-## Kullanılan Teknolojiler ve Kütüphaneler
+## Kullanılan Teknolojiler
 
-- Java SE
+- Java 21
 - Jakarta Persistence API (JPA)
-- Hibernate (JPA implementasyonu için)
-- PostgreSQL (veritabanı)
+- Hibernate (JPA implementation)
+- PostgreSQL (database)
 
 ## Veritabanı Hakkında
 
